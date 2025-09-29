@@ -4,3 +4,4 @@ eventlet
 eventlet
 flask
 flask-socketio
+gunicorn
